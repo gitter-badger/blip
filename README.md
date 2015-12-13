@@ -1,5 +1,7 @@
 # [blip](http://jshanley.github.io/blip/)
 
+[![Join the chat at https://gitter.im/jshanley/blip](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jshanley/blip?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **blip** is a lightweight JavaScript library that wraps the Web Audio API, abstracting away the AudioContext, and simplifying node creation and audio routing. It also provides some extremely powerful and flexible methods for looping and manipulating samples that allow for both temporal precision and musical expressiveness.
 
 > Visit the [**site**](http://jshanley.github.io/blip/) >>
